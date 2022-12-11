@@ -1,9 +1,9 @@
 {
-  "name": "Chetan",
+  "name": "Estherl Chan",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Estherl Chan - curious",
+  "headerTaglineThree": "interior architect",
+  "headerTaglineFour": " based in Kuala Lumpur, Malaysia",
   "showBlog": true,
   "darkMode": true,
   "socials": [
@@ -53,20 +53,6 @@
       "description": "Marketing",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
     }
   ],
   "services": [
@@ -93,7 +79,7 @@
   ],
   "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer, and maker.",
+    "tagline": "👋  I'm a Interior Architect",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
     "experiences": [
       {
